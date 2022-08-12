@@ -7,6 +7,6 @@
 <h3>Possui Operação de Crud</h3>
 
 **Instalação**
-1)Adicione a Pasta api dentro da pasta do servidor: www ou htdocs
-2)Crie um banco de dados chamado 'api_db'
-3)Adicione mysql.sql ao banco de dados MySQL
+<li>Adicione a Pasta api dentro da pasta do servidor: www ou htdocs
+<li>Crie um banco de dados chamado 'api_db'
+<li>Adicione mysql.sql ao banco de dados MySQL
